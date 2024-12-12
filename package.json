@@ -10,7 +10,7 @@
     "jquery": "^3.3.1",
     "loggit-npm": "^1.5.0",
     "node-brightness": "^0.2.1",
-    "node-powershell": "^4.0.0"
+    "node-powershell": "^5.0.0"
   },
   "devDependencies": {},
   "scripts": {
